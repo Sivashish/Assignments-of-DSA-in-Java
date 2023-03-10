@@ -1,6 +1,6 @@
-package oops_1_2_3.classes_and_object;
 
 public class DynamicArraysClasses {
+    
     private int[] arr;
     private int nextIndex;
 
